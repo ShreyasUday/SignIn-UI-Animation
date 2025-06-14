@@ -2,7 +2,8 @@
 
 🎯 A stylish animated sign-in form with hover-expand effect, built using **HTML**, **CSS**, and **JavaScript**.
 
-![screenshot](images/google-icon-logo-svgrepo-com.svg) <!-- Replace this with a real screenshot later -->
+![google-icon-logo-svgrepo-com](https://github.com/user-attachments/assets/ea07f724-e101-4a96-a374-054effdf611b)
+
 
 ## 💡 Features
 
